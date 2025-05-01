@@ -1,8 +1,8 @@
 {
   "name": "not-so-focused",
   "displayName": "Not so Focused - Very dark VSCode theme",
-  "description": "Fork of Uchoa's \"Ultrafocus\" theme. It's got a slightly more contrasty design with some tweaked and finalized coloring.",
-  "version": "0.0.2",
+  "description": "Fork of Uchoa's \"Ultrafocus\" theme featuring a slightly more bright and blue design with some tweaked and finalized coloring.",
+  "version": "0.0.3",
   "publisher": "iineolineii",
   "repository": {
     "type": "git",
